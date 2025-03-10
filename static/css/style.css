@@ -1,0 +1,75 @@
+.teste_container{
+    padding: 0;
+}
+body{
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 80px;
+}
+
+h2 {
+    text-align: center;
+}
+#foto-logo{
+    height: 40px;
+}
+
+.accordion{
+    --bs-accordion-active-color: rgb(255, 255, 255);
+}
+.accordion-button {
+    --bs-accordion-active-bg:rgb(207, 15, 15);
+    --bs-accordion-btn-focus-box-shadow: ;
+    --bs-accordion-active-color: rgb(255, 253, 253);
+    --bs-accordion-btn-active-icon: 
+  }
+.border-image-2{
+    background-image: linear-gradient(to right,rgb(196, 67, 67),rgb(123, 31, 31)) ;
+}
+.border-image-1{
+    background-image: linear-gradient(to right,rgb(123, 31, 31),rgb(196, 67, 67)) ;
+}
+
+audio::-webkit-media-controls-panel{
+    background-image: linear-gradient(to left, orange, rgba(255, 0, 0, 0.833));
+}
+audio::-webkit-media-controls-current-time-display, ::-webkit-media-controls-time-remaining-display{
+    color: white;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+}
+
+button.btn-cert:hover {
+    transition: 0.6s;
+    color: black;
+    background-color: rgba(22, 102, 167, 0.61);
+}
+
+.butao{
+    border: 1px solid black;
+    border-radius: 12px;
+}
+.texto{
+    font-size: 18px;
+    font-family: "Nunito Sans", sans-serif;
+   
+    text-align: justify;
+    color: #262626;
+    
+}
+.texto2{
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 40px;
+    color: #131313;
+    text-align: center;
+}
+.texto-final{
+    font-size: 19px;
+
+}
+.img-quemsomos{
+    margin: 25% 0 0 0 ;
+
+}
