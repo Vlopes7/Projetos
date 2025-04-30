@@ -9,7 +9,7 @@ Este repositório contém uma coleção de projetos com o objetivo de aplicar e 
 ### ✅ Easy Scrum
 
 **Descrição:**  
-O *Easy Scrum* é um projeto educacional que tem como objetivo ensinar os fundamentos da metodologia ágil **Scrum**. Através de uma interface interativa, o usuário aprenderá sobre os papéis, artefatos e boas práticas do Scrum.
+O *Easy Scrum* é um projeto educacional que tem como objetivo ensinar os fundamentos da metodologia ágil **Scrum**. Através de uma interface interativa, o usuário aprenderá sobre os papéis, cerimônias, artefatos e boas práticas do Scrum.
 
 **Funcionalidades:**
 - Conteúdo teórico dividido por módulos (Scrum Master, Product Owner, Time de Desenvolvimento, etc.)
@@ -25,16 +25,14 @@ Ajudar iniciantes a entender e aplicar a metodologia Scrum em projetos reais.
 ### 🗂️ Gerenciador de Tarefas
 
 **Descrição:**  
-Aplicativo simples de gerenciamento de tarefas com foco na organização pessoal e produtividade. O projeto visa mostrar como estruturar um aplicativo funcional com criação, edição e exclusão de tarefas.
+Projeto simples de gerenciamento de tarefas desenvolvido com **HTML, CSS e JavaScript**. O foco está em manipulação do DOM e lógica básica de programação.
 
 **Funcionalidades:**
-- Criação de tarefas
-- Marcar tarefas como concluídas
-- Filtros para tarefas ativas, concluídas ou todas
-- Interface amigável e intuitiva
+- Adicionar novas tarefas
+- Remover tarefas da lista
 
 **Objetivo:**  
-Exercitar lógica de programação e manipulação de dados em tempo real.
+Praticar fundamentos de front-end e lógica de programação usando tecnologias web básicas.
 
 ---
 
@@ -47,12 +45,13 @@ Projeto CRUD (Create, Read, Update, Delete) completo utilizando **Java** como li
 - Cadastro de clientes com nome, e-mail, telefone, entre outros campos
 - Edição e exclusão de registros
 - Listagem de clientes com paginação
-- Busca por nome ou cpf
-- Integração com banco de dados MySQL via JDBC
+- Busca por nome ou e-mail
+- Integração com banco de dados MySQL via JDBC ou JPA (dependendo da implementação)
 
 **Tecnologias utilizadas:**
 - Backend: Java
 - Banco de dados: MySQL
+- Interface: Terminal ou aplicação gráfica (dependendo da versão)
 
 **Objetivo:**  
 Demonstrar habilidades em desenvolvimento backend com Java e integração a banco de dados relacional.
