@@ -57,11 +57,3 @@ Projeto CRUD (Create, Read, Update, Delete) completo utilizando **Java** como li
 Demonstrar habilidades em desenvolvimento backend com Java e integração a banco de dados relacional.
 
 ---
-
-## 🚀 Como Executar os Projetos
-
-Cada projeto está em sua própria pasta com instruções específicas. Para executar:
-
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
